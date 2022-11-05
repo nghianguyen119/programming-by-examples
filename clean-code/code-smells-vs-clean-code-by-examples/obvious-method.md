@@ -39,5 +39,5 @@ private static boolean isEven(int i){
 {% endtabs %}
 
 {% hint style="danger" %}
-This example could be controversial, it's recommended to avoid the methods that have the method body more obvious than the method itself. E.g. isPositive(int i), isNegative(int i), moreThanFiveFaillures(int nbrOfFaillure) are not necessary
+This example could be controversial. In general, it's recommended to avoid the methods that have the method body more obvious than the method itself. E.g. isPositive(int i), isNegative(int i), moreThanFiveFaillures(int nbrOfFaillure) are not necessary
 {% endhint %}
