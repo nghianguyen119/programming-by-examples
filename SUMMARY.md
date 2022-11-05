@@ -3,7 +3,8 @@
 ## Clean Code
 
 * [Code smells vs clean code by examples](README.md)
-  * [Long Method](clean-code/code-smells-vs-clean-code-by-examples/long-method.md)
+  * [Long Method](bad-practice-vs-good-practice-by-examples/long-method.md)
+  * [Obvious method](clean-code/code-smells-vs-clean-code-by-examples/obvious-method.md)
 * [Design patterns by examples](clean-code/design-patterns-by-examples.md)
 
 ## Divers
