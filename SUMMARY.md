@@ -10,8 +10,9 @@
   * [Replace Temporary with Query](clean-code/code-smells-vs-clean-code-by-examples/replace-temporary-with-query.md)
   * [Split Temporary Variable](clean-code/code-smells-vs-clean-code-by-examples/split-temporary-variable.md)
   * [⚠ Replace Method with Method Object](clean-code/code-smells-vs-clean-code-by-examples/replace-method-with-method-object.md)
-  * [Untitled](clean-code/code-smells-vs-clean-code-by-examples/untitled.md)
-* [Page 1](clean-code/page-1.md)
+  * [🤽♀ Hide Delegate](clean-code/code-smells-vs-clean-code-by-examples/hide-delegate.md)
+  * [🤽♀ Remove Middle Man (Reverse of Hide Delegate)](clean-code/code-smells-vs-clean-code-by-examples/remove-middle-man-reverse-of-hide-delegate.md)
+  * [Introduce Foreign Method](clean-code/code-smells-vs-clean-code-by-examples/introduce-foreign-method.md)
 * [Design patterns by examples](clean-code/design-patterns-by-examples.md)
 
 ## Divers
