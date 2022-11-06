@@ -13,7 +13,8 @@
   * [🤽♀ Hide Delegate](clean-code/code-smells-vs-clean-code-by-examples/hide-delegate.md)
   * [🤽♀ Remove Middle Man (Reverse of Hide Delegate)](clean-code/code-smells-vs-clean-code-by-examples/remove-middle-man-reverse-of-hide-delegate.md)
   * [Introduce Foreign Method](clean-code/code-smells-vs-clean-code-by-examples/introduce-foreign-method.md)
-* [Design patterns by examples](clean-code/design-patterns-by-examples.md)
+* [Design patterns by examples](clean-code/design-patterns-by-examples/README.md)
+  * [Observer](clean-code/design-patterns-by-examples/observer.md)
 
 ## Divers
 
