@@ -15,6 +15,7 @@
   * [Introduce Foreign Method](clean-code/code-smells-vs-clean-code-by-examples/introduce-foreign-method.md)
 * [Design patterns by examples](clean-code/design-patterns-by-examples/README.md)
   * [Observer](clean-code/design-patterns-by-examples/observer.md)
+  * [Page 1](clean-code/design-patterns-by-examples/page-1.md)
 
 ## Divers
 
