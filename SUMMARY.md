@@ -19,7 +19,7 @@
 
 ## Functional Programming
 
-* [Write Code As A Story](functional-programming/write-code-as-a-story.md)
+* [Inspiration](functional-programming/inspiration.md)
 
 ## Divers
 
