@@ -36,3 +36,11 @@ System.out.println("Total of discounted prices: " + totalOfDiscountedPrices);
 {% hint style="info" %}
 There would not be multiple loops in the declarative solution as it looks like, performace is guaranteed
 {% endhint %}
+
+#### Advantages
+
+* Easy to modify
+* Easy to understand
+* Easy to parallelize
+* Avoid side effects
+* Easy to change to other languages
