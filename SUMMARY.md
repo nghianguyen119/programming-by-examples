@@ -27,6 +27,7 @@
 * [Useful code snippets ](divers/useful-code-snippets/README.md)
   * [URI construction](divers/useful-code-snippets/uri-construction.md)
 * [UML Class Diagram Cheatsheet](divers/uml-class-diagram-cheatsheet.md)
+* [React or Angular](divers/react-or-angular.md)
 
 ## Temporary Note
 
