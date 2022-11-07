@@ -17,11 +17,16 @@
   * [Observer](clean-code/design-patterns-by-examples/observer.md)
   * [Page 1](clean-code/design-patterns-by-examples/page-1.md)
 
+## Functional Programming
+
+* [Write Code As A Story](functional-programming/write-code-as-a-story.md)
+
 ## Divers
 
 * [Naming conventions](divers/naming-conventions.md)
 * [Useful code snippets ](divers/useful-code-snippets/README.md)
   * [URI construction](divers/useful-code-snippets/uri-construction.md)
+* [UML Class Diagram Cheatsheet](divers/uml-class-diagram-cheatsheet.md)
 
 ## Temporary Note
 
