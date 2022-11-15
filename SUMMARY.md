@@ -32,3 +32,4 @@
 ## Temporary Note
 
 * [Multiple class in a file ](temporary-note/multiple-class-in-a-file.md)
+* [Access private properties of other object of the same class](temporary-note/access-private-properties-of-other-object-of-the-same-class.md)
