@@ -33,3 +33,7 @@
 
 * [Multiple class in a file ](temporary-note/multiple-class-in-a-file.md)
 * [Access private properties of other object of the same class](temporary-note/access-private-properties-of-other-object-of-the-same-class.md)
+* [NextJS](temporary-note/nextjs/README.md)
+  * [Native \<img /> vs next/image](temporary-note/nextjs/native-less-than-img-greater-than-vs-next-image.md)
+  * [Native \<a href="…">](temporary-note/nextjs/native-less-than-a-href-...-greater-than.md)
+  * [Native \<head> vs next/head](temporary-note/nextjs/native-less-than-head-greater-than-vs-next-head.md)
