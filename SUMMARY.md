@@ -33,6 +33,7 @@
 ## Temporary Note
 
 * [Multiple class in a file ](temporary-note/multiple-class-in-a-file.md)
+* [Interfaces: private, default, static methods](temporary-note/interfaces-private-default-static-methods.md)
 * [Access private properties of other object of the same class](temporary-note/access-private-properties-of-other-object-of-the-same-class.md)
 * [NextJS](temporary-note/nextjs/README.md)
   * [Native \<img /> vs next/image](temporary-note/nextjs/native-less-than-img-greater-than-vs-next-image.md)
