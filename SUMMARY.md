@@ -20,6 +20,7 @@
 ## Functional Programming
 
 * [Inspiration](functional-programming/inspiration.md)
+* [Syntax](functional-programming/syntax.md)
 
 ## Divers
 
@@ -37,3 +38,4 @@
   * [Native \<img /> vs next/image](temporary-note/nextjs/native-less-than-img-greater-than-vs-next-image.md)
   * [Native \<a href="…">](temporary-note/nextjs/native-less-than-a-href-...-greater-than.md)
   * [Native \<head> vs next/head](temporary-note/nextjs/native-less-than-head-greater-than-vs-next-head.md)
+  * [Incremental Static Regeneration (ISR)](temporary-note/nextjs/incremental-static-regeneration-isr.md)
