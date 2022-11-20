@@ -37,6 +37,15 @@
 * [Access private properties of other object of the same class](temporary-note/access-private-properties-of-other-object-of-the-same-class.md)
 * [NextJS](temporary-note/nextjs/README.md)
   * [Native \<img /> vs next/image](temporary-note/nextjs/native-less-than-img-greater-than-vs-next-image.md)
-  * [Native \<a href="…">](temporary-note/nextjs/native-less-than-a-href-...-greater-than.md)
+  * [Native \<a href="…"> vs next/link](temporary-note/nextjs/native-less-than-a-href-...-greater-than-vs-next-link.md)
   * [Native \<head> vs next/head](temporary-note/nextjs/native-less-than-head-greater-than-vs-next-head.md)
   * [Incremental Static Regeneration (ISR)](temporary-note/nextjs/incremental-static-regeneration-isr.md)
+  * [ReactDOM.hydrate()](temporary-note/nextjs/reactdom.hydrate.md)
+  * [Automatic Static Optimization](temporary-note/nextjs/automatic-static-optimization.md)
+  * [SSR and data fetching on client](temporary-note/nextjs/ssr-and-data-fetching-on-client.md)
+  * [shalow routing in router.push](temporary-note/nextjs/shalow-routing-in-router.push.md)
+  * [SSR with catch](temporary-note/nextjs/ssr-with-catch.md)
+
+## Boilerplate
+
+* [Visual Studio Code Extensions](boilerplate/visual-studio-code-extensions.md)
