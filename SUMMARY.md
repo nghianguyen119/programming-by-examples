@@ -34,6 +34,11 @@
 ## Temporary Note
 
 * [Multiple class in a file ](temporary-note/multiple-class-in-a-file.md)
+* [Inner class](temporary-note/inner-class.md)
+* [Marker Interface](temporary-note/marker-interface.md)
+* [Inheritance from multiple interfaces](temporary-note/inheritance-from-multiple-interfaces.md)
+* [Variables in Interface](temporary-note/variables-in-interface.md)
+* [Try with ressource](temporary-note/try-with-ressource.md)
 * [Interfaces: private, default, static methods](temporary-note/interfaces-private-default-static-methods.md)
 * [Access private properties of other object of the same class](temporary-note/access-private-properties-of-other-object-of-the-same-class.md)
 * [NextJS](temporary-note/nextjs/README.md)
