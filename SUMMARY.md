@@ -21,6 +21,7 @@
 
 * [Inspiration](functional-programming/inspiration.md)
 * [Syntax](functional-programming/syntax.md)
+* [Lambda Expression](functional-programming/lambda-expression.md)
 
 ## Divers
 
