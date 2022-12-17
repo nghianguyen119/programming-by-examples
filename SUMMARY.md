@@ -52,6 +52,19 @@
   * [shalow routing in router.push](temporary-note/nextjs/shalow-routing-in-router.push.md)
   * [SSR with catch](temporary-note/nextjs/ssr-with-catch.md)
 
+***
+
+* [Page 2](page-2.md)
+
 ## Boilerplate
 
 * [Visual Studio Code Extensions](boilerplate/visual-studio-code-extensions.md)
+
+## JavaScript
+
+* [Asynchronous](javascript/asynchronous/README.md)
+  * [Async control flow patterns](javascript/asynchronous/async-control-flow-patterns.md)
+
+## WEB APP DEV
+
+* [Progressive Image Loader](web-app-dev/progressive-image-loader.md)
