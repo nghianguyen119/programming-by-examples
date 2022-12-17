@@ -68,3 +68,5 @@
 ## WEB APP DEV
 
 * [Progressive Image Loader](web-app-dev/progressive-image-loader.md)
+* [Remove unused CSS JS](web-app-dev/remove-unused-css-js.md)
+* [Page Test](web-app-dev/page-test.md)
