@@ -1,3 +1,5 @@
 # Page Test
 
-[https://pagespeed.web.dev/](https://pagespeed.web.dev/)
+{% embed url="https://pagespeed.web.dev/" %}
+
+{% embed url="https://tools.pingdom.com/" %}
