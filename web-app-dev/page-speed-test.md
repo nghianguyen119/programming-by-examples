@@ -1,4 +1,4 @@
-# Page Test
+# Page Speed Test
 
 {% embed url="https://pagespeed.web.dev/" %}
 
