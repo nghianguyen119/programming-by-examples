@@ -71,3 +71,11 @@
 * [Remove unused CSS JS](web-app-dev/remove-unused-css-js.md)
 * [Page Speed Test](web-app-dev/page-speed-test.md)
 * [Coding Complex App Logic?](web-app-dev/coding-complex-app-logic.md)
+* [Page 3](web-app-dev/page-3.md)
+* [Page 4](web-app-dev/page-4.md)
+
+## Material
+
+* [Accessibility](material/accessibility.md)
+* [Alternative text (Alt text)](material/alternative-text-alt-text.md)
+* [Color & contrast](material/color-and-contrast.md)
