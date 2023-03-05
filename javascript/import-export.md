@@ -16,5 +16,5 @@ export default variableB;
 
 // b.ts
 export * from "./a"; // -> export { variableA } (no variableB is exported)
-
+export { variableA } from "./a";
 ```
