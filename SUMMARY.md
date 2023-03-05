@@ -64,6 +64,7 @@
 
 * [Asynchronous](javascript/asynchronous/README.md)
   * [Async control flow patterns](javascript/asynchronous/async-control-flow-patterns.md)
+* [Import/Export](javascript/import-export.md)
 
 ## WEB APP DEV
 
